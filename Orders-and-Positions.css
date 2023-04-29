@@ -1,0 +1,37 @@
+ .u-section-1 {
+  background-image: linear-gradient(to right, #1a1a1a, #808080);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 139px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 900;
+  background-image: none;
+  margin: 30px auto;
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 989px;
+} .u-section-3 {
+  background-image: linear-gradient(to right, #1a1a1a, #808080);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 139px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 900;
+  background-image: none;
+  margin: 30px auto;
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 931px;
+}
